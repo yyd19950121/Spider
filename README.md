@@ -1,0 +1,3 @@
+微信
+规则类,Scrapy框架爬虫
+创建爬虫文件命令: scrapy genspider -t crawl 爬虫名 域名 
